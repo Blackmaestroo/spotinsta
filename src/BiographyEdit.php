@@ -7,11 +7,11 @@ require_once 'Settings.php';
 error_reporting(0);
 
 
-$username = '';
+$username = 'sr.the.mehmet';
 
-$password = '';
+$password = '123456789qqq';
 
-$sizinemailiniz = '';
+$sizinemailiniz = 'bestduoslyrics@gmail.com';
 
 $debug = false;
 
